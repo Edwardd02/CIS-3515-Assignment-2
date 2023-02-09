@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUpForm</string>
+    <string name="please_complete_the_form">Please complete the form</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="save">Save</string>
+    <string name="please_choose_your_program">Please choose your program</string>
+</resources>
